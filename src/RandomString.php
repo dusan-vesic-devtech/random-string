@@ -1,6 +1,6 @@
 <?php
 
-namespace Devtech\RandomString;
+namespace Vesic\RandomString;
 
 class RandomString {
     

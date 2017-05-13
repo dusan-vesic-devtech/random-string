@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-use \Devtech\RandomString\RandomString;
+use \Vesic\RandomString\RandomString;
 
 class RandomStringTest extends TestCase {
     
