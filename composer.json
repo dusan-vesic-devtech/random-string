@@ -1,0 +1,16 @@
+{
+  "name": "devtech/random-string",
+  "type": "library",
+  "require": {
+    "phpunit/phpunit": "^6.1"
+  },
+  "authors": [{
+    "name": "vesic",
+    "email": "dusan.vesic@gmail.com"
+  }],
+  "autoload": {
+    "psr-4": {
+      "Devtech\\RandomString\\": "src"
+    }
+  }
+}
