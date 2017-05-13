@@ -1,5 +1,5 @@
 {
-  "name": "devtech/random-string",
+  "name": "vesic/random-string",
   "type": "library",
   "require": {
     "phpunit/phpunit": "^6.1"
@@ -8,6 +8,7 @@
     "name": "vesic",
     "email": "dusan.vesic@gmail.com"
   }],
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "Devtech\\RandomString\\": "src"
